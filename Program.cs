@@ -6,9 +6,10 @@ namespace МТЗКІТ_лаба__6
     {
         static void Main(string[] args)
         {
+            int x = 5;
+            int y = 10;
             Console.WriteLine("Hello World!");
             Console.ReadKey();
-            git config user.name "Andrij Bohach"
         }
     }
 }
